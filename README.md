@@ -4,7 +4,15 @@
 
 [![Build Status](https://secure.travis-ci.org/bigcommerce/mozart.png?branch=master)](http://travis-ci.org/bigcommerce/mozart)
 
-Please see http://mozart.io for documentation, examples etc.
+Develop fast, rich & beautiful applications in minutes.
+
+For installation instructions, API documentation, guides and pre-packaged downloads, see [mozart.io](http://www.mozart.io/).
+
+* [Getting Started](http://www.mozart.io/getting_started)
+* [API Documentation](http://www.mozart.io/apidocs)
+* [Contributors Guide](http://www.mozart.io/guides/contributing_to_mozart)
+
+Mozart is released under the MIT License.
 
 # Changelog
 
